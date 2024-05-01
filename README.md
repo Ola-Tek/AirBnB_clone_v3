@@ -158,5 +158,12 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb: Joann Vuong
+Third part of Airbnb: Obisesan Olabode
 ## License
 Public Domain. No copy write protection. 
+
+##Assertions and Unitest Module
+More Unitest modules were added and updated to make testing more robust and comprehensive.
+
+##Codebase
+The code base was gotten from a forked repository of Alexa Orrico and Joann Vuong in order for it to be updated
